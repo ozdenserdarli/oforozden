@@ -1,12 +1,9 @@
-style.css
-
-
-body .h1 {
+body h1 {
    color: #FFFFFF;
    font-size: 20px;
    font-family: sans-serif;
 }
 
-body .p {
+body p {
     color: #FFFFFF;
 }
