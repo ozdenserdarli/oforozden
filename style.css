@@ -1,9 +1,8 @@
 body h1 {
-   color: #FFFFFF;
-   font-size: 20px;
+   font-size: 60px;
    font-family: sans-serif;
 }
 
 body p {
-    color: #FFFFFF;
+    font-size: 40px;
 }
