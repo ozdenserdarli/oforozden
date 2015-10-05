@@ -3,3 +3,13 @@ style.css
 body {
     background-color: white;
 }
+
+body {
+   color: #FFFFFF;
+   font-size: 20px;
+   font-family: sans-serif;
+}
+
+h1 {
+    color: #FFFFFF
+}
