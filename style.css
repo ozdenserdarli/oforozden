@@ -1,8 +1,14 @@
 body h1 {
-   font-size: 60px;
-   font-family: sans-serif;
+    margin: 0;
+    color: #ffffff;
+    text-align: center;
+    font-family: Opensans, Helvetica;
+    font-weight: lighter;
+    font-size: 90px;
+    height: 100px;
+    padding-top: 270px;
 }
 
 body p {
-    font-size: 40px;
+    font-size: 60px;
 }
