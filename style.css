@@ -1,0 +1,30 @@
+body {
+	background: no-repeat;
+}
+
+.container-fluid h1{
+    margin: 0;
+    color: #ffffff;
+    text-align: center;
+    font-family: Opensans, Helvetica;
+    font-weight: bolder;
+    font-size: 60px;
+    height: 100px;
+    padding-top: 270px;
+    padding-bottom: 600px;
+    background-image: url(http://orig07.deviantart.net/7afb/f/2011/090/8/1/suicide_is_fun_by_hruthos-d3cvl2g.jpg);
+    background-repeat:no-repeat;
+    background-size:cover;
+}
+
+
+.container h1{
+	color: black;
+	text-align: center;
+    font-family: Opensans, Helvetica;
+    font-weight: lighter;
+    font-size: 30px;
+    background-color: white;
+}
+
+
